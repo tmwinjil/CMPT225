@@ -1,0 +1,9 @@
+cartesian: 10 15
+polar: 18.0278 0.982794
+
+cartesian: 10.3923 6
+polar: 12 0.523599
+
+rotated: 6 10.3923
+translated: 13.5923 4.9
+scaled: 25.9808 15
